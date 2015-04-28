@@ -74,13 +74,18 @@ h6 {
     width: 80%;
 }
 
-.post-content h2.section-heading {
-    width: 300px;
+h2.team {
+    width: 500px;
+    margin-top: 30px;
+    margin-bottom: 0px;
     margin-left: auto;
     margin-right: auto;
+    font-size: 44px;
+    text-align: center;
 }
 
 img.profile {
+    margin-top: 20px;
     width: 35%;
     margin-left: auto;
     margin-right: auto;
